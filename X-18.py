@@ -4,7 +4,7 @@ import pyfiglet
 from colorama import Fore, init 
 import requests
 init()
-R=pyfiglet.figlet_format("DNSCAN ",font = "slant")
+R=pyfiglet.figlet_format("X-18 ",font = "slant")
 print(R)
 print(f"{Fore.RED}https://web.facebook.com/Alien-god-108932904033061", Fore.RESET)
 print(f"{Fore.RED}created by Aliengod16", Fore.RESET)
